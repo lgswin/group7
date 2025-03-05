@@ -7,11 +7,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/this-is-a-new-post-by-gsl/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -27,7 +22,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/author/gslee/
+            http://localhost:8000/author/gsl/
         </loc>
     </url>
 </urlset>
