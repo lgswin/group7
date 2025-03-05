@@ -165,3 +165,4 @@ clickhouse-setup/data
 
 node_modules
 .wordpress
+.DS_Store
