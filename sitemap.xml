@@ -17,6 +17,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/akashs-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
