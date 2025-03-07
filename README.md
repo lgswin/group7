@@ -67,6 +67,15 @@ You can access the deployed WordPress site at:
 
 ➡️ https://lgswin.github.io/group7-monolith/
 
+
+## **Monitoring with Signoz**
+
+1. Open the Signoz UI at `http://localhost:3301`
+2. Monitor logs, traces, and metrics in real-time.
+3. Use OpenTelemetry to instrument additional services.
+
+
+
 ## **Completed Tasks**
 
 The following tasks were completed as part of the grading requirements:
@@ -89,17 +98,4 @@ The following tasks were completed as part of the grading requirements:
     - Logged into **Signoz** and created a **dashboard**.
     - Added a **new panel** and configured the **metrics field** to track `system_cpu_time`.
     - This allows monitoring of **compute resource usage** for the WordPress container.
-
----
-
-## **Monitoring with Signoz**
-
-1. Open the Signoz UI at `http://localhost:3301`
-2. Monitor logs, traces, and metrics in real-time.
-3. Use OpenTelemetry to instrument additional services.
-
-## **Observability Metrics**
-
-- The system collects key observability data such as **latency, request count, error rates, and CPU utilization**.
-- The total **compute time** for WordPress is monitored using the `system_cpu_time` metric in Signoz.
 ![image](https://github.com/user-attachments/assets/f99bc244-0a83-4bc6-b6b9-c6f56d19cf3b)
